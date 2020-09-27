@@ -1,24 +1,19 @@
-# README
+# TODO API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning practice from `https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one`
 
-Things you may want to cover:
+- To run the server,
 
-* Ruby version
+```rails s```
 
-* System dependencies
+- To run DB migration,
 
-* Configuration
+```rails db:migrate```
 
-* Database creation
+- To run tests,
 
-* Database initialization
+```bundle exec rspec```
 
-* How to run the test suite
+- To see all routes,
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```rails routes```
