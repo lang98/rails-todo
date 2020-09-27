@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "solargraph.autoformat": true,
+    "solargraph.diagnostics": true,
+    "solargraph.formatting": true,
+    "ruby.rubocop.onSave": true,
+    "ruby.rubocop.executePath": "/usr/local/lib/ruby/gems/2.7.0/gems/rubocop-0.92.0/exe/",
+}
